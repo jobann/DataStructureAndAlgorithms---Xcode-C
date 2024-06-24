@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		51A858942C293A450065FDC6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A858932C293A450065FDC6 /* main.c */; };
+		51A8589E2C293F930065FDC6 /* Arrays.c in Sources */ = {isa = PBXBuildFile; fileRef = 51A8589D2C293F930065FDC6 /* Arrays.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		51A858902C293A450065FDC6 /* DataStructureAndAlgorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DataStructureAndAlgorithms; sourceTree = BUILT_PRODUCTS_DIR; };
-		51A858932C293A450065FDC6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		51A8589D2C293F930065FDC6 /* Arrays.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Arrays.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		51A858922C293A450065FDC6 /* DataStructureAndAlgorithms */ = {
 			isa = PBXGroup;
 			children = (
-				51A858932C293A450065FDC6 /* main.c */,
+				51A8589D2C293F930065FDC6 /* Arrays.c */,
 			);
 			path = DataStructureAndAlgorithms;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				51A858942C293A450065FDC6 /* main.c in Sources */,
+				51A8589E2C293F930065FDC6 /* Arrays.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
